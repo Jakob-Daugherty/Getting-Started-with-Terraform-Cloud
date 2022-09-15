@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "ORG_NAME"
+    organization = "arqangle-rr"
 
     workspaces {
       name = "diamonddogs-app-useast1-dev"
